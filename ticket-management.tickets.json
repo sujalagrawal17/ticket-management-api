@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "66eeafffe49dab15af0bbe37"
+  },
+  "title": "Monitor Repair",
+  "description": "Screen is showing random colors after ever 5 minutes",
+  "status": "open",
+  "createdAt": {
+    "$date": "2024-02-03T00:00:00.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66eeb02fe49dab15af0bbe39"
+  },
+  "title": "Keyboard Issue",
+  "description": "Some Keys not working properly",
+  "status": "closed",
+  "createdAt": {
+    "$date": "2024-02-04T00:00:00.000Z"
+  },
+  "__v": 0
+}]
